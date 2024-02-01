@@ -1,4 +1,7 @@
 Basic functionality
 No tests
 
-Next iteration will contain unit tests
+TODO
+ Unit tests
+ Main class
+ Choose folder functionaity
