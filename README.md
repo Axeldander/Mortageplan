@@ -14,7 +14,8 @@ Open a terminal or command prompt and navigate to the project's root directory.
 
 Run the following Maven command:
 ```java
-mvn clean install```
+mvn clean install
+```
 If the build is successful, you can find the mortagecalculator-1.0-SNAPSHOT.jar file in the target folder.
 
 #Running the Tests
