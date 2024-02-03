@@ -21,7 +21,8 @@ If the build is successful, you can find the mortagecalculator-1.0-SNAPSHOT.jar 
 #Running the Tests
 To execute the tests and verify the correctness of the loan payment calculations, use the following command:
 ```java
-mvn verify```
+mvn verify
+```
 These tests ensure the accuracy of the loan payment calculations.
 
 #Running the Tool
@@ -43,7 +44,8 @@ These tests ensure the accuracy of the loan payment calculations.
 
 4. Launch the tool by running the command:
 ```java
-    java -jar target/mortagecalculator-1.0-SNAPSHOT.jar```
+    java -jar target/mortagecalculator-1.0-SNAPSHOT.jar
+```
 
 #License
 This project is open-source and free to use.
