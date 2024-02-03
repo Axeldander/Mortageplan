@@ -14,14 +14,13 @@ Open a terminal or command prompt and navigate to the project's root directory.
 
 Run the following Maven command:
 ```java
-mvn clean install
-
+mvn clean install```
 If the build is successful, you can find the mortagecalculator-1.0-SNAPSHOT.jar file in the target folder.
 
 #Running the Tests
 To execute the tests and verify the correctness of the loan payment calculations, use the following command:
-
-mvn verify
+```java
+mvn verify```
 These tests ensure the accuracy of the loan payment calculations.
 
 #Running the Tool
@@ -42,7 +41,8 @@ These tests ensure the accuracy of the loan payment calculations.
     The path can be relative to the root folder of the project.
 
 4. Launch the tool by running the command:
-    java -jar target/mortagecalculator-1.0-SNAPSHOT.jar
+```java
+    java -jar target/mortagecalculator-1.0-SNAPSHOT.jar```
 
 #License
 This project is open-source and free to use.
