@@ -13,15 +13,6 @@ These instructions will guide you to set up the project on your local machine fo
   
 - Maven
 
-**Building**
-
-1. Clone or download the project and extract it to a folder.
-2. Open a terminal or command prompt and navigate to the project's root directory.
-3. Run the following Maven command:
-```java
-mvn clean install
-```
-If the build is successful, you can find the `mortagecalculator-1.0-SNAPSHOT.jar` file in the `target` folder.
 
 **Running the Tests**
 
