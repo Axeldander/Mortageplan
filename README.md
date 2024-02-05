@@ -53,6 +53,13 @@ These tests ensure the accuracy of the loan payment calculations.
    ```
    The path can be relative to the root folder of the project.
 
+3. Navigate to the target directory: Open a command prompt or terminal and navigate to the 'target' directory of your project using the 'cd' command.
+
+   For example:
+   ```bash
+    cd path/to/your/project/target
+   ```
+  
 3. Launch the tool by running the command:
 ```java
 java -jar target/MortageCalculator-1.0-SNAPSHOT.jar
@@ -60,3 +67,5 @@ java -jar target/MortageCalculator-1.0-SNAPSHOT.jar
 
 **License**
 This project is open-source and free to use.
+
+
