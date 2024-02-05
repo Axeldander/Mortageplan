@@ -61,9 +61,9 @@ These tests ensure the accuracy of the loan payment calculations.
    ```
   
 3. Launch the tool by running the command:
-   ```java
-   java -jar target/MortageCalculator-1.0-SNAPSHOT.jar
-   ```
+     ```java
+     java -jar target/MortageCalculator-1.0-SNAPSHOT.jar
+     ```
 
 **License**
 This project is open-source and free to use.
